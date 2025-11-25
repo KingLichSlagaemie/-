@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFmaVZQHtuU=",
+  "success": true,
+  "projectFilePath": "E:\\лабы максим\\Lab_7_Lepilkin_Maksim_ISP_232-master\\Lab_7_Lepilkin_Maksim_ISP_232-master\\Lab_7\\Lab_7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgisa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\rgisa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\rgisa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\rgisa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

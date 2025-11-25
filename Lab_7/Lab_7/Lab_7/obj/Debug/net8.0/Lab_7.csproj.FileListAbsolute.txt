@@ -1,0 +1,14 @@
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\bin\Debug\net8.0\Lab_7.exe
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\bin\Debug\net8.0\Lab_7.deps.json
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\bin\Debug\net8.0\Lab_7.runtimeconfig.json
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\bin\Debug\net8.0\Lab_7.dll
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\bin\Debug\net8.0\Lab_7.pdb
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\Lab_7.GeneratedMSBuildEditorConfig.editorconfig
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\Lab_7.AssemblyInfoInputs.cache
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\Lab_7.AssemblyInfo.cs
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\Lab_7.csproj.CoreCompileInputs.cache
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\Lab_7.dll
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\refint\Lab_7.dll
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\Lab_7.pdb
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\Lab_7.genruntimeconfig.cache
+E:\лабы максим\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7_Lepilkin_Maksim_ISP_232-master\Lab_7\obj\Debug\net8.0\ref\Lab_7.dll
