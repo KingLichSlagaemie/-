@@ -1,0 +1,10 @@
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\bin\Debug\Paint.exe.config
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\bin\Debug\Paint.exe
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\bin\Debug\Paint.pdb
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\obj\Debug\Paint.Form1.resources
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\obj\Debug\Paint.exe
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\Paint\obj\Debug\Paint.pdb

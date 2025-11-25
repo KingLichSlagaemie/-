@@ -1,0 +1,10 @@
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\bin\Debug\LAB_12_ISP-232.exe.config
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\bin\Debug\LAB_12_ISP-232.exe
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\bin\Debug\LAB_12_ISP-232.pdb
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\obj\Debug\LAB_12_ISP-232.csproj.AssemblyReference.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\obj\Debug\LAB_12_ISP_232.Form1.resources
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\obj\Debug\LAB_12_ISP_232.Properties.Resources.resources
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\obj\Debug\LAB_12_ISP-232.csproj.GenerateResource.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\obj\Debug\LAB_12_ISP-232.csproj.CoreCompileInputs.cache
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\obj\Debug\LAB_12_ISP-232.exe
+D:\LABS\лабы максим\Lab_12_Lepilkin_Maksim_ISP_232-master\Lab_12_Lepilkin_Maksim_ISP_232-master\LAB_12_ISP-232\obj\Debug\LAB_12_ISP-232.pdb
