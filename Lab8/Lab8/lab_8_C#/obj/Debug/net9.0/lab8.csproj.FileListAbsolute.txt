@@ -1,0 +1,14 @@
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\bin\Debug\net9.0\lab8.exe
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\bin\Debug\net9.0\lab8.deps.json
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\bin\Debug\net9.0\lab8.runtimeconfig.json
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\bin\Debug\net9.0\lab8.dll
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\bin\Debug\net9.0\lab8.pdb
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\lab8.AssemblyInfoInputs.cache
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\lab8.AssemblyInfo.cs
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\lab8.csproj.CoreCompileInputs.cache
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\lab8.dll
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\refint\lab8.dll
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\lab8.pdb
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\lab8.genruntimeconfig.cache
+E:\лабы максим\Lab_8_Lepilkin_Maksim_ISP_232-master\Lab_8_Lepilkin_Maksim_ISP_232-master\lab_8_C#\obj\Debug\net9.0\ref\lab8.dll
